@@ -1,4 +1,4 @@
-# Ternary Huffman Encoding
+# Ternary Huffman Encoding To Store DNA
 Scientists are looking for new ways of efficient data storage and a method of interest is the use of DNA as a storage medium. With the right encoding, one cubic centimeter of DNA can store 10<sup>16</sup> bits data, which means that you can store all the world's data in one pound DNA.
 
 ## How does the program work
